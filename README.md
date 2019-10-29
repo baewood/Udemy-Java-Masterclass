@@ -1,2 +1,2 @@
 # Udemy-Java-Masterclass
-Coded create in Java in Tim Buchalka's Udemy class 
+Code created in Java in Tim Buchalka's Udemy class 
